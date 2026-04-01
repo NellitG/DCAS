@@ -1,4 +1,3 @@
-# integrations/sms.py
 import requests
 
 API_URL = ""
